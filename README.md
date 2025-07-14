@@ -1,6 +1,6 @@
 
 <p align="Left">
-  <img src="https://drive.google.com/file/d/16PL6olBCmJg3_P2buOhSSxuBT5L98h23/view?usp=sharing"/>
+  <img src="https://github.com/Sudhirkdnw/sudhirkdnw/blob/main/Screenshot%202025-07-14%20135644.png"/>
 </p>
 <p align="center">
   <a href="https://instagram.com/yourusername" target="_blank">
