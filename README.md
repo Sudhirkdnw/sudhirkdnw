@@ -1,30 +1,34 @@
-<p align="center">
-  <img src="https://instagram.fbom26-2.fna.fbcdn.net/v/t51.2885-19/499256039_17869386576371000_5920956693846716485_n.jpg?_nc_ht=instagram.fbom26-2.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QGNNUh2Ay2xHdvDddh5_qVoIl6ITGpyunt0HjCYF6x-AzSGWktsIZRj3gvotCIaxXQ&_nc_ohc=l1EPPx90CZgQ7kNvwHrZjTC&_nc_gid=RF8uLEFHt5sed_4neOed3A&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfRyZnYB04bM_dH1TLj0_xO1Bel7xPn6Oh6buOHrg4nYQg&oe=687A7EE8&_nc_sid=7a9f4b" width="200" alt="Avatar" style="border-radius: 50%;" />
+
+<p align="Left">
+  <img src="https://instagram.fbom26-2.fna.fbcdn.net/v/t51.2885-19/499256039_17869386576371000_5920956693846716485_n.jpg?_nc_ht=instagram.fbom26-2.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QGNNUh2Ay2xHdvDddh5_qVoIl6ITGpyunt0HjCYF6x-AzSGWktsIZRj3gvotCIaxXQ&_nc_ohc=l1EPPx90CZgQ7kNvwHrZjTC&_nc_gid=RF8uLEFHt5sed_4neOed3A&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfRyZnYB04bM_dH1TLj0_xO1Bel7xPn6Oh6buOHrg4nYQg&oe=687A7EE8&_nc_sid=7a9f4b" width="140" height="140" style="border-radius: 50%;" alt="avatar" />
 </p>
-
-<h2 align="center">Coding From Home 🧑‍💻</h2>
-
-<p align="center">
- <a href="https://instagram.com/sudhirdnw" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<p align="right">
+  <a href="https://instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@sudhirkdnw" target="_blank">
-    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://youtube.com/@yourchannel" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://twitter.com/sudhirkdnw" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=visitors&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=visitors&color=0e75b6&style=flat-square" />
 </p>
 
-<br/>
-
-<h2 align="center">hey there 👋</h2>
+<h2 align="center">💻 Develop Your Dream 💻</h2>
 
 
+
+
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=F7F7F7&width=435&lines=Hey+there+👋;Welcome+to+my+profile!;Let's+Code+Together+💻" alt="Typing SVG" />
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Sudhir Kumar</h1>
