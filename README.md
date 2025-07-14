@@ -1,8 +1,8 @@
 
 <p align="Left">
-  <img src="https://instagram.fbom26-2.fna.fbcdn.net/v/t51.2885-19/499256039_17869386576371000_5920956693846716485_n.jpg?_nc_ht=instagram.fbom26-2.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QGNNUh2Ay2xHdvDddh5_qVoIl6ITGpyunt0HjCYF6x-AzSGWktsIZRj3gvotCIaxXQ&_nc_ohc=l1EPPx90CZgQ7kNvwHrZjTC&_nc_gid=RF8uLEFHt5sed_4neOed3A&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfRyZnYB04bM_dH1TLj0_xO1Bel7xPn6Oh6buOHrg4nYQg&oe=687A7EE8&_nc_sid=7a9f4b" width="140" height="140" style="border-radius: 50%;" alt="avatar" />
+  <img src="https://photos.google.com/photo/AF1QipOkTur6C9y1GCFtRIcpy_kkTUDryy6J9PovDR2d"/>
 </p>
-<p align="right">
+<p align="center">
   <a href="https://instagram.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -12,14 +12,12 @@
   <a href="https://twitter.com/yourhandle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
+</p><p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=visitors&color=0e75b6&style=flat-square" />
 </p>
 
-<h2 align="center">💻 Develop Your Dream 💻</h2>
 
+<h2 align="center">💻 Develop Your Dream 💻</h2>
 
 
 
