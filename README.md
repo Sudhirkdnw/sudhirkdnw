@@ -53,16 +53,42 @@
 - ⚡ Fun fact **Develop Your Dream**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/http://sudhirkumar.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="http://sudhirkumar.netlify.app/" height="30" width="40" /></a>
-<a href="https://twitter.com/sudhirkdnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudhirkdnw" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sudhirkdnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhirkdnw" height="30" width="40" /></a>
-<a href="https://kaggle.com/sudhirkdnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sudhirkdnw" height="30" width="40" /></a>
-<a href="https://fb.com/sudhirkumar4655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sudhirkumar4655" height="30" width="40" /></a>
-<a href="https://instagram.com/sudhirdnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudhirdnw" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sudhirkdnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sudhirkdnw" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sudhirkdnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sudhirkdnw" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sudhirkdnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sudhirkdnw" height="30" width="40" /></a>
+<p style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://sudhirkumar.netlify.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://twitter.com/sudhirkdnw" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://linkedin.com/in/sudhirkdnw" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://kaggle.com/sudhirkdnw" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://fb.com/sudhirkumar4655" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://instagram.com/sudhirdnw" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://www.youtube.com/c/sudhirkdnw" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://www.hackerrank.com/sudhirkdnw" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://www.leetcode.com/sudhirkdnw" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
