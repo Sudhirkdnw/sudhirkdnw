@@ -66,8 +66,9 @@
 
 ## 🔥 Top Languages
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhirkdnw&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,js,ts,php,laravel,django,flask,java,c,cpp,html,css,tailwind,bootstrap,mongodb,mysql,postgres,firebase,git,github,linux,aws,gcp,docker,figma&theme=dark&perline=10" />
 </p>
 
 ---
@@ -77,3 +78,5 @@
 > 💭 *"Code. Create. Conquer."*
 
 ---
+
+
