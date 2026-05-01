@@ -3,13 +3,13 @@
   <img src="https://github.com/Sudhirkdnw/sudhirkdnw/blob/main/Screenshot%202025-07-14%20135644.png"/>
 </p>
 <p align="center">
-  <a href="https://instagram.com/yourusername" target="_blank">
+  <a href="https://instagram.com/sudhirdnw" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@yourchannel" target="_blank">
+  <a href="https://youtube.com/@sudhirkdnw" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="https://twitter.com/sudhirkdnw" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p><p align="center">
